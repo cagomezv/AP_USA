@@ -88,6 +88,7 @@ Estas tecnologías permiten automatizar tareas tradicionalmente asociadas a capa
 # Herramientas y Tecnologías
 
 - Python
+- Keras
 - TensorFlow
 - PyTorch
 - Scikit-Learn
