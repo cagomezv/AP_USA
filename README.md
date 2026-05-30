@@ -1,5 +1,7 @@
 # Aprendizaje Profundo
 
+[Lista de Reproducción en YouTube](https://www.youtube.com/playlist?list=PLm08IlYCQRe5eiV6khD48SPZNdF13712E)
+
 ## Descripción del curso
 
 El curso de **Aprendizaje Profundo** introduce los fundamentos teóricos y prácticos del aprendizaje profundo como una subdisciplina del aprendizaje de máquina basada en redes neuronales artificiales multicapa. A lo largo del curso, los estudiantes desarrollarán competencias para diseñar, entrenar y evaluar modelos de redes neuronales aplicados al procesamiento de imágenes, texto, audio y secuencias temporales.
