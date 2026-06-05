@@ -1,6 +1,9 @@
 # Aprendizaje Profundo
 
 [Lista de Reproducción en YouTube](https://www.youtube.com/playlist?list=PLm08IlYCQRe5eiV6khD48SPZNdF13712E)
+[Entregable Proyecto 1 - Fecha Máxima 6 de Junio](https://drive.google.com/drive/folders/12pxtuFnbVoZJ0wDyw7PqGBX8cEzTlOw8?usp=sharing)
+[Entregable Proyecto 2 - Fecha Máxima 11 de Junio]](https://drive.google.com/drive/folders/1kY3go8CM_b53w38JfJVRU3gW3RhZlnob?usp=sharing)
+
 
 ## Descripción del curso
 
